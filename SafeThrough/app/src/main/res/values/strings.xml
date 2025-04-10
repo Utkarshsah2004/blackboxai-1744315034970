@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeThrough</string>
+    <string name="emergency_assistance">Emergency Assistance</string>
+    <string name="emergency_type">Emergency Type</string>
+    <string name="location">Location</string>
+    <string name="details">Additional Details</string>
+    <string name="submit">Submit Request</string>
+    <string name="sos">SOS</string>
+    <string name="help_on_way">Help is on the way!</string>
+    <string name="location_required">Location is required</string>
+    <string name="emergency_hint">Please describe your emergency situation</string>
+    <string name="medical_emergency">Medical Emergency</string>
+    <string name="vehicle_breakdown">Vehicle Breakdown</string>
+    <string name="fuel_outage">Fuel Outage</string>
+    <string name="safety_concern">Safety Concern</string>
+    <string name="other">Other</string>
+</resources>
